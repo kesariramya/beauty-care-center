@@ -1,0 +1,54 @@
+h3{
+    color: #FFFFFF;
+    background-color:#2F4F4F ;
+    margin-left:auto ;
+    margin-right: auto;
+    text-align: center;
+    width: 35;
+    font-family:verdana;
+     border-radius: 1px solid;
+     border-style: 6px;
+}
+body{
+    background-color: #000000;
+    color: #487ef3;
+}
+table{
+    width: 30%;
+    border-style: 3px groove;
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 5px;
+    border-radius: 6px;
+    border: 1px;
+    border-style: solid;
+    /* border-color: #60eaf4; */
+    /* color: white; */
+}
+submit{
+      color: #FFEFD5;
+      font:bold;
+      background-color: transparent;
+      border-radius: 6px;
+}  
+checkbox{
+         width: 50%;
+        margin-left:auto;
+        margin-right: 14em;
+
+}   
+
+td{
+    border: 1px solid #f4a460;
+}
+
+input[type='checkbox'], button{
+
+    margin-left: 12rem;
+    
+}
+
+label[for='terms']{
+    text-decoration: underline;
+
+}
